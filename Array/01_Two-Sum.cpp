@@ -14,8 +14,8 @@ Then used unordered_map(hash data structure),
 Simply, the logic is to check if the {target-number} is present in vector or not.
 
 I have made the elements of vector as keys of map (that can be helpful in
-unordered_map.find function) and there index as value.. Then if the element is
-found, its value(that is element's index w.r.t vector) and index of second element
+unordered_map.find function) and there index as value.. after this we will our target-number in map,
+Then if the element is found, its value(that is element's index w.r.t vector) and index of second element
 is printed on console.
 */
 
