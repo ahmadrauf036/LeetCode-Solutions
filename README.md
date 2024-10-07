@@ -19,4 +19,6 @@ Each problem's solution is organized into its own folder, with the following str
 
 Each solution is commented at the top of the code to explain the problem, the approach taken, and any important considerations or complexities.
 
+**Note:** This repository is in the process of completion.
+
 
