@@ -18,7 +18,6 @@ unordered_map.find function) and there index as value.. after this we will our t
 Then if the element is found, its value(that is element's index w.r.t vector) and index of second element
 is printed on console.
 */
-
 #include <iostream>
 #include<vector>
 #include<unordered_map>
