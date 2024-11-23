@@ -1,10 +1,10 @@
-# Blind 75 LeetCode Solutions
+# LeetCode Solutions
 
-Welcome to my repository, where I share my solutions to the **Blind 75 LeetCode Questions**, a curated list of the most important coding problems that are frequently asked in technical interviews.
+Welcome to my repository, where I share my solutions to the **LeetCode Questions**, a curated list of the most important coding problems that are frequently asked in technical interviews.
 
 ## 📘 About
 
-This repository contains solutions to the Blind 75 problems, written in **C++**. Each solution is optimized for readability and performance, and wherever possible, I have provided detailed explanations and insights into the approach used.
+This repository contains solutions to the leetcode problems, written in **C++**. Each solution is optimized for readability and performance, and wherever possible, I have provided detailed explanations and insights into the approach used.
 
 These problems are ideal for anyone preparing for coding interviews or seeking to improve their problem-solving skills.
 
