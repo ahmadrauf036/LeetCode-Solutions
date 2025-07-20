@@ -57,3 +57,17 @@ int main()
     two_sum(nums,8);
     return 0;
 }
+
+/*
+JS code
+
+var twoSum = function(nums, target) {
+    for (let index = 0; index < nums.length; index++) {
+        find = nums.indexOf(target-nums[index])
+        if (find !== -1 && find !== index){
+            return [index,find]
+        }
+    }
+    return [0]
+};
+*/
